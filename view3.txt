@@ -1,0 +1,11 @@
+Speed =	(45 x 5/18)	m/sec	= (25/2)m/sec.<br>
+
+Time = 30 sec.
+<br>
+Let the length of bridge be x metres.<br>
+
+Then,	(130+ x	)/30=	25/2<br>
+ 2(130 + x) = 750
+
+ x = 245 m.<br><br>
+<a href="file:///F:/online%20CRT/problem%20of%20trains.html">Back</a>

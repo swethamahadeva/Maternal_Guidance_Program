@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <lissnk rel="stylesheet" href="style.css" />
+    <title>Login Form Demo</title>
+  </head>
+  <style>
+body{
+background-Screenshot_20230622_115006;
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-color:'pink';
+
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNWNzrKvUUxY4wLvJK2Y952EqoOvaDiyEJ4bad1LCKrqu76k3DA3_yf12S-CYCpHQeNo&usqp=CAU");
+background-size:cover;
+}
+
+}
+</style>
+  <body><div><center>
+    <div class="login-wrapper">
+      <form action="" class="form">
+        <h2>Login</h2>
+        <div class="input-group">
+          <input type="text" name="loginUser" id="loginUser" required />
+          <label for="loginUser">User Name</label>
+        </div><br>
+        <div class="input-group">
+          <input
+            type="password"
+            name="loginPassword"
+            id="loginPassword"
+            required
+          />
+          <label for="loginPassword">Password</label>
+        </div><br>
+<a href="after login.html" input type="submit" value="Login" class="submit-btn"><h3>Login</h3></a>
+<a href="sign in.html" input type="submit" value="Login" class="submit-btn" /><h3>Sign Up</h3></a>
+  <a href="file:///F:/online%20CRT/Home.html"><h3>Back_To_Home</h3></a>    </form>
+    </div></center></div>
+  </body>
+</html>

@@ -1,0 +1,480 @@
+<!--<!DOCTYPE html>-->
+<html lang="en">
+<head>
+
+<!--<meta charset="utf-8" content="utf-8">-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#2299c5">
+
+<title>Probability - Aptitude Questions and Answers</title>
+<meta name="keywords" content="height, distance, general, questions, aptitude, answers, explanation, solutions, examples, interview, entrance, exam, online, test, quiz, pdf, download, freshers, ebooks" />
+<meta name="description" content="This is the aptitude questions and answers section on &quot;Height and Distance&quot; with explanation for various interview, competitive examination and entrance test. Solved examples with detailed answer description, explanation are given and it would be easy to understand." />
+<link href="/_files/css/css-res-min-1-15.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="/_files/js/js-res-10.js" type="text/javascript"></script>
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-0191447310372013",
+          enable_page_level_ads: true
+     });
+</script>
+</head>
+
+<body>
+<style>
+body{
+background-color:#ffff99;
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+</style>
+<div class="whole-page">
+
+     <!--[if IE]><div class="inner-page-ie"><![endif]-->
+     <div class="inner-page">
+        
+        <div>
+        
+        
+                <form  method="get" name="searchform" action="https://www.google.co.in/search" target="_blank" class="mx-dummy"> 
+                <input type="hidden" name="sitesearch" value="www.indiabix.com" />
+                <div class="search-button" onclick="document.forms['searchform'].submit();" alt="Search">&nbsp;</div>
+                <input name="as_q" id="skr" class="search-box" type="text" placeholder="Search..." />
+                </form>
+            </div>
+        </div><input id="hdnTitleID" type="hidden" value="1" />
+        <div class="menu">
+            <a href="file:///F:/online%20CRT/Home.html">Home</a>&nbsp;&nbsp;
+            <a href="file:///F:/online%20CRT/aptitude.html">Aptitude</a>&nbsp;&nbsp;
+            
+            <a class="hide-1 hide-2" href="file:///F:/online%20CRT/problem%20of%20trains.html">Problem of Trains</a>&nbsp;&nbsp;
+           
+            <a href="https://www.indiabix.com/online-test/categories/" title="Online Tests"><span class="hide-1">Online </span>Tests</a>&nbsp;&nbsp;
+            <a class="hide-1 hide-2" href="https://www.indiabix.com/puzzles/number-puzzles/">Puzzles</a>
+            <!-- a class="hide-1 hide-2" href="http://www.meritanswers.com/questions/ask/" title="Ask a question at MeritAnswers.com!">Ask Now !</a --> 
+        </div><div id="divSubMenu" class="div-sub-menu" style="display:none">
+            
+            <h3>Quantitative Aptitude</h3>
+            <div>
+                <a href="/aptitude/questions-and-answers/">Arithmetic Aptitude</a>
+                <a href="/data-interpretation/questions-and-answers/">Data Interpretation</a>
+            </div>
+            
+            <h3>Verbal and Reasoning</h3>
+            <div>
+                <a href="/verbal-ability/questions-and-answers/">Verbal Ability</a>
+                <a href="/logical-reasoning/questions-and-answers/">Logical Reasoning</a>
+                <a href="/verbal-reasoning/questions-and-answers/">Verbal Reasoning</a>
+                <a href="/non-verbal-reasoning/questions-and-answers/">Nonverbal Reasoning</a>
+            </div>
+            
+           <h3>Current Affairs &amp; GK</h3>
+            <div>
+                <a href="/current-affairs/questions-and-answers/">Current Affairs</a>
+                <a href="/general-knowledge/questions-and-answers/" title="General Knowledge Questions and Answers">General Knowledge</a>
+            </div>
+            
+            <h3>Interview</h3>
+            <div>
+                <a href="/hr-interview/questions-and-answers/">HR Interview</a>
+                <a href="/group-discussion/topics-with-answers/">Group Discussion</a>
+                <a href="/placement-papers/companies/">Placement Papers</a>
+                <a href="/technical/interview-questions-and-answers/">Technical Interview</a>
+            </div>
+            
+            <h3>Engineering</h3>
+            <div>
+                <a href="/mechanical-engineering/questions-and-answers/" title="Mechanical Engineering Questions and Answers">Mechanical Engineering</a>
+                <a href="/civil-engineering/questions-and-answers/" title="Civil Engineering Questions and Answers">Civil Engineering</a>
+                <a href="/electronics-and-communication-engineering/questions-and-answers/" title="Electronics and Communication Engineering Questions and Answers">ECE</a>
+                <a href="/electrical-engineering/questions-and-answers/" title="Electrical Engineering Questions and Answers">EEE</a>
+                <a href="/computer-science/questions-and-answers/" title="Computer Science Questions and Answers">CSE</a>
+                <a href="/engineering/" title="Engineering Questions and Answers">Read more...</a>
+            </div>
+            
+            <h3>Technical</h3>
+            <div>
+                <a href="/c-programming/questions-and-answers/" title="C Programming Questions and Answers">C Programming</a>
+                <a href="/cpp-programming/questions-and-answers/" title="C++ Programming Questions and Answers">C++</a>
+                <a href="/c-sharp-programming/questions-and-answers/" title="C# Programming Questions and Answers">C#</a>
+                <a href="/java-programming/questions-and-answers/" title="Java Programming Questions and Answers">Java</a>
+                <a href="/database/questions-and-answers/" title="Database Questions and Answers">Database</a>
+                <a href="/networking/questions-and-answers/" title="Networking Questions and Answers">Networking</a>
+            </div>
+            
+            <h3>Medical Science</h3>
+            <div>
+                <a href="/microbiology/questions-and-answers/">Microbiology</a>
+                <a href="/biochemistry/questions-and-answers/">Biochemistry</a> 
+                <a href="/biotechnology/questions-and-answers/">Biotechnology</a> 
+                <a href="/biochemical-engineering/questions-and-answers/">Biochemical Engineering</a>
+            </div>
+            
+            <h3>Others</h3>
+            <div>
+                <a href="/online-test/categories/" >Online Tests</a>
+                <a href="/puzzles/number-puzzles/" title="Puzzles Quiz">Puzzles Quiz</a>
+                <a href="/puzzles/sudoku/" >Sudoku</a>
+                <!-- a href="http://www.meritanswers.com/questions/ask/" title="Ask a question at MeritAnswers.Com">Ask your question?</a -->
+                <a href="#" onclick="$('#divSubMenu').slideToggle()" class="ib-red">Close Menu</a>
+            </div>
+            
+        </div>
+        </div>    
+        
+        <div class="pagehead"><h1>Aptitude - Probability</h1></div>
+        <div id="divIntroduction" class="mx-none">
+            <h2>Why Aptitude Probability?</h2>
+            <p>In this section you can learn and practice Aptitude Questions based on "Probability" and improve your skills in order to face the interview, competitive examination and various entrance test (CAT, GATE, GRE, MAT, Bank Exam, Railway Exam etc.) with full confidence. </p>
+            <h2>Where can I get Aptitude Probability questions and answers with explanation?</h2>
+            <p>IndiaBIX provides you lots of fully solved Aptitude (Probability) questions and answers with Explanation. Solved examples with detailed answer description, explanation are given and it would be easy to understand. All students, freshers can download Aptitude Probability quiz questions with answers as PDF files and eBooks.</p>
+            <h2>Where can I get Aptitude Probability Interview Questions and Answers (objective type, multiple choice)?</h2> 
+            <p>Here you can find objective type Aptitude Probability questions and answers for interview and entrance examination. Multiple choice and true or false type questions are also provided.</p>
+             <h2>How to solve Aptitude Probability problems?</h2>
+            <p>You can easily solve all kind of Aptitude questions based on Probability by practicing the objective type exercises given below, also get shortcut methods to solve Aptitude Probability problems.</p>
+            </div>
+            <input type="hidden" value="2" id="idAgentType">
+        
+        <div class="breadcrumb">
+             <a href="Home.html">Home</a> &raquo; <a href="aptitude.html">Aptitude</a> &raquo; <a href="https://www.indiabix.com/aptitude/probability/">Probability</a> &raquo; General Questions
+        </div>
+        
+        <div class="main-left">
+            
+<div class="div-ad-site-top"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bixer Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-full-width-responsive="true"
+     data-ad-client="ca-pub-0191447310372013"
+     data-ad-slot="3107019861"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="div-top-left"><h3 class="overview"><span class="ib-gray">Exercise :: </span>Probability - General Questions</h3><ul class="ul-top-left"><li><a href="https://www.indiabix.com/aptitude/probability/formulas">Probability - Important Formulas</a></li><li class="current"><a href="https://www.indiabix.com/aptitude/probability/">Probability - General Questions</a></li></ul></div> 
+
+
+
+
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">1.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_692" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_692"><a id="lnkOptionLink_A_692" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_692"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">2</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_692"><a id="lnkOptionLink_B_692" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_692"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">2</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">5</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_692"><a id="lnkOptionLink_C_692" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_692"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">8</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">15</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_692"><a id="lnkOptionLink_D_692" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_692"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">9</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">20</td>
+ </tr> 
+</tbody></table></td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_692" value="D" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_692">
+                        <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_692">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_692').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                 
+                    </div>
+                    <div class="bix-div-toolbar" id="divToolBar_692">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/probability/discussion-692#comments;"  onclick="$('#divAnswer_692').slideToggle('slow')" >View Answer</a>
+
+                    
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">2.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>
+A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
+</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_700" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_700"><a id="lnkOptionLink_A_700" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_700"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">10</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">21</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_700"><a id="lnkOptionLink_B_700" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_700">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">11</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">21</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_700"><a id="lnkOptionLink_C_700" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_700">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">2</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">7</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_700"><a id="lnkOptionLink_D_700" href="javascript: void 0;">D. </a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_700">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">5</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">7</td>
+ </tr> 
+</tbody></table></td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_700" value="A" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_700">
+                      <br>
+                    
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_700">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_700').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                 
+                   
+               <div class="bix-div-toolbar" id="divToolBar_692">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/probability/discussion-700#comments"  onclick="$('#divAnswer_692').slideToggle('slow')" >View Answer</a>
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">3.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>
+In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?
+</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_701" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_701"><a id="lnkOptionLink_A_701" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_701">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">3</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_701"><a id="lnkOptionLink_B_701" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_701">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">3</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">4</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_701"><a id="lnkOptionLink_C_701" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_701">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">7</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">19</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_701"><a id="lnkOptionLink_D_701" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_701">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">8</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">21</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_E_701"><a id="lnkOptionLink_E_701" href="javascript: void 0;">E.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_E_701">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">9</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">21</td>
+ </tr> 
+</tbody></table></td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_701" value="A" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_701">
+                        <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_701">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_701').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+               
+                    </div>
+                    <div class="bix-div-toolbar" id="divToolBar_701">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/probability/discussion-701#comments"  onclick="$('#divAnswer_701').slideToggle('slow')" >View Answer</a>
+              
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">4.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>What is the probability of getting a sum 9 from two throws of a dice?</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_690" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_690"><a id="lnkOptionLink_A_690" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_690"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">6</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_690"><a id="lnkOptionLink_B_690" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_690"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">8</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_690"><a id="lnkOptionLink_C_690" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_690"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">9</td>
+ </tr> 
+</tbody></table></td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_690"><a id="lnkOptionLink_D_690" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_690"><table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">12</td>
+ </tr> 
+</tbody></table></td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_690" value="C" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_690">
+                      
+                    
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_690">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_690').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                    <div class="bix-div-report mx-none" id="divReport_690">
+                       
+                    </div>
+                    <div class="bix-div-toolbar" id="divToolBar_690">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/probability/discussion-690#comments"  onclick="$('#divAnswer_690').slideToggle('slow')" >View Answer</a>
+    
+          
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">5.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>
+Three unbiased coins are tossed. What is the probability of getting at most two heads?
+</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_689" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_689"><a id="lnkOptionLink_A_689" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_689">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">3</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">4</td>
+ </tr> 
+</tbody></table>
+</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_689"><a id="lnkOptionLink_B_689" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_689">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">1</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">4</td>
+ </tr> 
+</tbody></table>
+</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_689"><a id="lnkOptionLink_C_689" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_689">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">3</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">8</td>
+ </tr> 
+</tbody></table>
+</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_689"><a id="lnkOptionLink_D_689" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_689">
+<table class="ga-tbl-answer" cellpadding="0" cellspacing="0">
+ <tbody><tr class="ga-tr-divident" align="center">
+    <td class="ga-td-divident">7</td>
+ </tr>
+ <tr class="ga-tr-divisor" align="center">
+    <td class="ga-td-divisor">8</td>
+ </tr> 
+</tbody></table>
+</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_689" value="D" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_689">
+                        
+ </div>
+                    </div>
+                    <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_689">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_689').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                   
+                    <div class="bix-div-toolbar" id="divToolBar_689">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/probability/discussion-689#comments"  onclick="$('#divAnswer_689').slideToggle('slow')" >View Answer</a>
+    
+  
+    <hr /><div class="related-links"><h3 class="h3-read-more">Read more:</h3><ul><li><a href="https://www.indiabix.com/aptitude/probability/formulas">Probability - Important Formulas</a></li></ul></div><input id="hdnAjaxImageCacheKey" type="hidden" value="ccebaceadadcebbdabdcaadbbcdaddeebaabacce" />
+  <br>    
+<a href="aptitude.html"><h1><center>Back</center></h1></a>
+<br><br><br>
+ 
+      
+</body></html>

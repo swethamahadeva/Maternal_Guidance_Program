@@ -1,0 +1,316 @@
+
+<!--<!DOCTYPE html>-->
+<html lang="en">
+<head>
+
+<!--<meta charset="utf-8" content="utf-8">-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#2299c5">
+
+<title>Height and Distance - Aptitude Questions and Answers</title>
+<meta name="keywords" content="height, distance, general, questions, aptitude, answers, explanation, solutions, examples, interview, entrance, exam, online, test, quiz, pdf, download, freshers, ebooks" />
+<meta name="description" content="This is the aptitude questions and answers section on &quot;Height and Distance&quot; with explanation for various interview, competitive examination and entrance test. Solved examples with detailed answer description, explanation are given and it would be easy to understand." />
+<link href="/_files/css/css-res-min-1-15.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="/_files/js/js-res-10.js" type="text/javascript"></script>
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-0191447310372013",
+          enable_page_level_ads: true
+     });
+</script>
+</head>
+<style>
+body{
+background-color:#ffff99;
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+</style>
+<body>
+
+<div class="whole-page">
+
+     <!--[if IE]><div class="inner-page-ie"><![endif]-->
+     <div class="inner-page">
+        
+        <div>
+        
+        
+                <form  method="get" name="searchform" action="https://www.google.co.in/search" target="_blank" class="mx-dummy"> 
+                <input type="hidden" name="sitesearch" value="www.indiabix.com" />
+                <div class="search-button" onclick="document.forms['searchform'].submit();" alt="Search">&nbsp;</div>
+                <input name="as_q" id="skr" class="search-box" type="text" placeholder="Search..." />
+                </form>
+            </div>
+        </div><input id="hdnTitleID" type="hidden" value="1" />
+        <div class="menu">
+            <a href="Home.html">Home</a>&nbsp;&nbsp;
+            <a href="aptitude.html">Aptitude</a>&nbsp;&nbsp;
+            
+            <a class="hide-1 hide-2" href="file:///F:/online%20CRT/problem%20of%20trains.html">Problem of Trains</a>&nbsp;&nbsp;
+           
+            <a href="https://www.indiabix.com/online-test/categories/" title="Online Tests"><span class="hide-1">Online </span>Tests</a>&nbsp;&nbsp;
+            <a class="hide-1 hide-2" href="https://www.indiabix.com/puzzles/number-puzzles/">Puzzles</a>
+            <!-- a class="hide-1 hide-2" href="http://www.meritanswers.com/questions/ask/" title="Ask a question at MeritAnswers.com!">Ask Now !</a --> 
+        </div><div id="divSubMenu" class="div-sub-menu" style="display:none">
+            
+            <h3>Quantitative Aptitude</h3>
+            <div>
+                <a href="/aptitude/questions-and-answers/">Arithmetic Aptitude</a>
+                <a href="/data-interpretation/questions-and-answers/">Data Interpretation</a>
+            </div>
+            
+            <h3>Verbal and Reasoning</h3>
+            <div>
+                <a href="/verbal-ability/questions-and-answers/">Verbal Ability</a>
+                <a href="/logical-reasoning/questions-and-answers/">Logical Reasoning</a>
+                <a href="/verbal-reasoning/questions-and-answers/">Verbal Reasoning</a>
+                <a href="/non-verbal-reasoning/questions-and-answers/">Nonverbal Reasoning</a>
+            </div>
+            
+           <h3>Current Affairs &amp; GK</h3>
+            <div>
+                <a href="/current-affairs/questions-and-answers/">Current Affairs</a>
+                <a href="/general-knowledge/questions-and-answers/" title="General Knowledge Questions and Answers">General Knowledge</a>
+            </div>
+            
+            <h3>Interview</h3>
+            <div>
+                <a href="/hr-interview/questions-and-answers/">HR Interview</a>
+                <a href="/group-discussion/topics-with-answers/">Group Discussion</a>
+                <a href="/placement-papers/companies/">Placement Papers</a>
+                <a href="/technical/interview-questions-and-answers/">Technical Interview</a>
+            </div>
+            
+            <h3>Engineering</h3>
+            <div>
+                <a href="/mechanical-engineering/questions-and-answers/" title="Mechanical Engineering Questions and Answers">Mechanical Engineering</a>
+                <a href="/civil-engineering/questions-and-answers/" title="Civil Engineering Questions and Answers">Civil Engineering</a>
+                <a href="/electronics-and-communication-engineering/questions-and-answers/" title="Electronics and Communication Engineering Questions and Answers">ECE</a>
+                <a href="/electrical-engineering/questions-and-answers/" title="Electrical Engineering Questions and Answers">EEE</a>
+                <a href="/computer-science/questions-and-answers/" title="Computer Science Questions and Answers">CSE</a>
+                <a href="/engineering/" title="Engineering Questions and Answers">Read more...</a>
+            </div>
+            
+            <h3>Technical</h3>
+            <div>
+                <a href="/c-programming/questions-and-answers/" title="C Programming Questions and Answers">C Programming</a>
+                <a href="/cpp-programming/questions-and-answers/" title="C++ Programming Questions and Answers">C++</a>
+                <a href="/c-sharp-programming/questions-and-answers/" title="C# Programming Questions and Answers">C#</a>
+                <a href="/java-programming/questions-and-answers/" title="Java Programming Questions and Answers">Java</a>
+                <a href="/database/questions-and-answers/" title="Database Questions and Answers">Database</a>
+                <a href="/networking/questions-and-answers/" title="Networking Questions and Answers">Networking</a>
+            </div>
+            
+            <h3>Medical Science</h3>
+            <div>
+                <a href="/microbiology/questions-and-answers/">Microbiology</a>
+                <a href="/biochemistry/questions-and-answers/">Biochemistry</a> 
+                <a href="/biotechnology/questions-and-answers/">Biotechnology</a> 
+                <a href="/biochemical-engineering/questions-and-answers/">Biochemical Engineering</a>
+            </div>
+            
+            <h3>Others</h3>
+            <div>
+                <a href="/online-test/categories/" >Online Tests</a>
+                <a href="/puzzles/number-puzzles/" title="Puzzles Quiz">Puzzles Quiz</a>
+                <a href="/puzzles/sudoku/" >Sudoku</a>
+                <!-- a href="http://www.meritanswers.com/questions/ask/" title="Ask a question at MeritAnswers.Com">Ask your question?</a -->
+                <a href="#" onclick="$('#divSubMenu').slideToggle()" class="ib-red">Close Menu</a>
+            </div>
+            
+        </div>
+        </div>    
+        
+        <div class="pagehead"><h1>Aptitude - Height and Distance</h1></div>
+        <div id="divIntroduction" class="mx-none">
+            <h2>Why Aptitude Height and Distance?</h2>
+            <p>In this section you can learn and practice Aptitude Questions based on "Height and Distance" and improve your skills in order to face the interview, competitive examination and various entrance test (CAT, GATE, GRE, MAT, Bank Exam, Railway Exam etc.) with full confidence. </p>
+            <h2>Where can I get Aptitude Height and Distance questions and answers with explanation?</h2>
+            <p>IndiaBIX provides you lots of fully solved Aptitude (Height and Distance) questions and answers with Explanation. Solved examples with detailed answer description, explanation are given and it would be easy to understand. All students, freshers can download Aptitude Height and Distance quiz questions with answers as PDF files and eBooks.</p>
+            <h2>Where can I get Aptitude Height and Distance Interview Questions and Answers (objective type, multiple choice)?</h2> 
+            <p>Here you can find objective type Aptitude Height and Distance questions and answers for interview and entrance examination. Multiple choice and true or false type questions are also provided.</p>
+             <h2>How to solve Aptitude Height and Distance problems?</h2>
+            <p>You can easily solve all kind of Aptitude questions based on Height and Distance by practicing the objective type exercises given below, also get shortcut methods to solve Aptitude Height and Distance problems.</p>
+            </div>
+            <input type="hidden" value="2" id="idAgentType">
+        
+        <div class="breadcrumb">
+             <a href="file:///F:/online%20CRT/Home.html">Home</a> &raquo; <a href="file:///F:/online%20CRT/aptitude.html">Aptitude</a> &raquo; <a href="https://www.indiabix.com/aptitude/height-and-distance/">Height and Distance</a> &raquo; General Questions
+        </div>
+        
+        <div class="main-left">
+            
+<div class="div-ad-site-top"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bixer Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-full-width-responsive="true"
+     data-ad-client="ca-pub-0191447310372013"
+     data-ad-slot="3107019861"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="div-top-left"><h3 class="overview"><span class="ib-gray">Exercise :: </span>Height and Distance - General Questions</h3><ul class="ul-top-left"><li><a href="https://www.indiabix.com/aptitude/height-and-distance/formulas">Height and Distance - Important Formulas</a></li><li class="current"><a href="https://www.indiabix.com/aptitude/height-and-distance/">Height and Distance - General Questions</a></li></ul></div> 
+
+
+
+
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">1.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30&deg; and 45&deg; respectively. If the lighthouse is 100 m high, the distance between the two ships is:</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_736" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_736"><a id="lnkOptionLink_A_736" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_736">173 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_736"><a id="lnkOptionLink_B_736" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_736">200 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_736"><a id="lnkOptionLink_C_736" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_736">273 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_736"><a id="lnkOptionLink_D_736" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_736">300 m</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_736" value="C" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_736">
+                        
+                    <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_736">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_736').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                   
+                    <div class="bix-div-toolbar" id="divToolBar_736">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/problems-on-trains/discussion-454#comments"  onclick="$('#divAnswer_736').slideToggle('slow')" >View Answer</a>
+    
+</div>
+                    
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">2.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30&deg; with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60&deg;. What is the distance between the base of the tower and the point P?</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_737" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_737"><a id="lnkOptionLink_A_737" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_737">4<span class="ga-root-h1">3</span> units</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_737"><a id="lnkOptionLink_B_737" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_737">8 units</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_737"><a id="lnkOptionLink_C_737" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_737">12 units</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_737"><a id="lnkOptionLink_D_737" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_737">Data inadequate</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_E_737"><a id="lnkOptionLink_E_737" href="javascript: void 0;">E.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_E_737">None of these</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_737" value="D" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_737">
+                    <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_737">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_737').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                    <div class="bix-div-report mx-none" id="divReport_737">
+                     
+    <a class="answer"      href="https://www.indiabix.com/aptitude/height-and-distance/discussion-737#comments"  onclick="$('#divAnswer_737').slideToggle('slow')" >View Answer</a>
+    
+</div>
+                    
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">3.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>The angle of elevation of a ladder leaning against a wall is 60&deg; and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_734" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_734"><a id="lnkOptionLink_A_734" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_734">2.3 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_734"><a id="lnkOptionLink_B_734" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_734">4.6 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_734"><a id="lnkOptionLink_C_734" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_734">7.8 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_734"><a id="lnkOptionLink_D_734" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_734">9.2 m</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_734" value="D" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_734">
+                        
+                    
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_734">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_734').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                   
+                    <div class="bix-div-toolbar" id="divToolBar_734">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/height-and-distance/discussion-734#comments"  onclick="$('#divAnswer_734').slideToggle('slow')" >View Answer</a>
+               
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">4.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>An observer 1.6 m tall is 20<span class="ga-root-h1">3</span> away from a tower. The angle of elevation from his eye to the top of the tower is 30&deg;. The height of the tower is:</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_735" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_735"><a id="lnkOptionLink_A_735" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_735">21.6 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_735"><a id="lnkOptionLink_B_735" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_735">23.2 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_735"><a id="lnkOptionLink_C_735" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_735">24.72 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_735"><a id="lnkOptionLink_D_735" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_735">None of these</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_735" value="A" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_735">
+                        <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_735">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_735').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                    
+                    
+                    <div class="bix-div-toolbar" id="divToolBar_735">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/height-and-distance/discussion-735#comments"  onclick="$('#divAnswer_735').slideToggle('slow')" >View Answer</a>
+  
+   
+                    
+                </td>
+            </tr>
+            </table>
+            </div><hr />
+            <div class="bix-div-container">
+            <table class="bix-tbl-container" cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td class="bix-td-qno"  rowspan="2" valign="top" align="left">5.&nbsp;</td>
+                <td class="bix-td-qtxt" valign="top"><p>From a point P on a level ground, the angle of elevation of the top tower is 30&deg;. If the tower is 100 m high, the distance of point P from the foot of the tower is:</p></td>
+            </tr>
+            <tr>
+                <td class="bix-td-miscell" valign="top"><table class="bix-tbl-options" id="tblOption_733" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_A_733"><a id="lnkOptionLink_A_733" href="javascript: void 0;">A.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_A_733">149 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_B_733"><a id="lnkOptionLink_B_733" href="javascript: void 0;">B.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_B_733">156 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_C_733"><a id="lnkOptionLink_C_733" href="javascript: void 0;">C.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_C_733">173 m</td></tr><tr><td class="bix-td-option" width="1%"  id="tdOptionNo_D_733"><a id="lnkOptionLink_D_733" href="javascript: void 0;">D.</a></td>
+                 <td class="bix-td-option" width="99%" id="tdOptionDt_D_733">200 m</td></tr></table><input type="hidden" class="jq-hdnakq" id="hdnAnswer_733" value="C" />
+                    <div class="bix-div-answer mx-none" id="divAnswer_733">
+                      <br>
+                    <div class="bix-div-workspace mx-none" id="divWorkspace_733">
+                        <div class="title-bar"><a href="javascript: void 0;" onclick="$('#divWorkspace_733').slideToggle('slow');">Workspace</a></div>
+                        <textarea rows="10" cols="65" class="mx-w-100p"></textarea>
+                    </div>
+                    
+                    
+                    <div class="bix-div-toolbar" id="divToolBar_733">
+    <a class="answer"      href="https://www.indiabix.com/aptitude/height-and-distance/discussion-733#comments"  onclick="$('#divAnswer_733').slideToggle('slow')" >View Answer</a>
+        
+                </td>
+            </tr>
+           
+</script></div><hr /><div class="related-links"><h3 class="h3-read-more">Read more:</h3><ul><li><a href="https://www.indiabix.com/aptitude/height-and-distance/formulas">Height and Distance - Important Formulas</a></li></ul></div><input id="hdnAjaxImageCacheKey" type="hidden" value="cdeaacedcaabbdbcbecaddcadeecadabcdbbceab" />
+ 
+ 
+        </div>
+                    
+        <div class="main-right" >
+           <div class="div-right-inner"><div class="div-ad-site-blank">
+     <br>    
+<a href="aptitude.html"><h1><center>Back</center></h1></a>
+<br><br><br>
+
+</body></html>
